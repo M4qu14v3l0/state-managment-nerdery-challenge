@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  align-items: center;
+  height: 52px;
+  color: white;
+  padding-left: 33px;
+  background-color: var(--header-color);
+  font-weight: 700;
+  font-size: 17px;
+}

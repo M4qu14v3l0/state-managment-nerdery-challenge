@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 14px;
+  max-height: 84vh;
+  overflow: auto;
+}
+
+.characterList {
+  display: flex;
+  flex-direction: column;
+}
