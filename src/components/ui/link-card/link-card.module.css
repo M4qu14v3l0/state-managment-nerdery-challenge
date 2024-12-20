@@ -1,0 +1,29 @@
+.character {
+  height: 69px;
+  padding: 0px 21px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  text-decoration: none;
+  border-bottom: 1px solid rgb(128, 128, 128, 0.2);
+
+  cursor: pointer;
+}
+
+.characterName {
+  display: flex;
+  flex-direction: column;
+}
+
+.characterName h4 {
+  font-weight: 700;
+  font-size: 17px;
+  color: var(--text-color);
+}
+
+.characterName p {
+  font-size: 14px;
+  color: #828282;
+}
